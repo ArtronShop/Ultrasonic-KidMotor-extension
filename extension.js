@@ -9,7 +9,7 @@
     blocks: [ // Blocks in Category
         {
             xml: `
-                <block type="ultrasonic_read">
+                <block type="ultrasonic_kidmotor_read">
                     <field name="trig">10</field>
                     <field name="echo">11</field>
                 </block>
